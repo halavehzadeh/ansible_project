@@ -1,5 +1,4 @@
 # ansible_project
-LAB 2: Creating Host Inventory
 Creating Host Inventory
 
 Since you are going to create a environment specific inventory, create a environments directory and a file inside it called prod
